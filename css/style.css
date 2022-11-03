@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.first{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 17rem 0;
+    text-align: center;
+}
+
+.first h1{
+    color: #212529;
+    font-size: 100px;
+}
+
+.first h3{
+    color: #212529;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 3rem;
+}
+
+.first a{
+    background-color: #1d809f;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.first a:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.second{
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.second h2{
+    color: #212529;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.second p{
+    color: #212529;
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 3rem;
+}
+
+.second .offer {
+    background-color: #212529;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.second .offer:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.second p a{
+    text-decoration: underline;
+}
+
+.third{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 17rem 0;
+    text-align: center;
+}
+
+.third h2{
+    color: #212529;
+    font-size: 56px;
+    margin-bottom: 3rem;
+}
+
+.third a{
+    background-color: #1d809f;
+    color: #fff;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.third a:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.four{
+   background-color: #1d809f;
+   color: #fff;
+   font-size: 16px;
+   padding: 100px 0;
+   text-align: center;
+   font-weight: bold;
+}
+
+.four h2{
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 3rem;
+}
+
+
+.four .click{
+    background-color: #f8f9fa;
+    color: #000;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: bold;
+    transition: .5s;
+    margin-right: 13px;
+}
+
+.four .look{
+    background-color: #000;
+    color: #f8f9fa;
+    font-size: 16px;
+    padding: 20px 40px;
+    border-radius: 7px;
+    font-weight: bold;
+    transition: .5s;
+    margin-left: 13px;
+}
+
+.four .click:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.four .look:hover{
+    background-color: #0b4455;
+    padding: 20px 60px;
+}
+
+.map{
+    width: 100%;
+}
+
+.foot{
+    text-align: center;
+    margin: 10rem 0;
+    color: #6c757d;
+}
+
+
+
